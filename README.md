@@ -1,5 +1,15 @@
 # VRDL_HW2
 
+## Dataset Download
+```
+!gdown --id '1lrKueI4HrySQDGvpkilQN9BfaMUN7hZi' --output train.zip
+
+!apt-get install unzi
+!unzip -q 'train.zip' -d train
+
+!gdown --id '1Fm-avdeNgzhPxhvia0iw9yZzcoOggy7I' --output test.zip
+!unzip -q 'test.zip' -d test
+```
 ## Model Configurations
 
 import config directory to train the models
