@@ -4,6 +4,8 @@
 #### Remember to use the NYCU account
 https://colab.research.google.com/drive/1R7_y5zeQV7vMwxg-fRECrMuVT1AYf5Zb?usp=sharing
 
+or just run SVHN.ipynb
+
 ## Dataset Download
 ```
 !gdown --id '1lrKueI4HrySQDGvpkilQN9BfaMUN7hZi' --output train.zip
