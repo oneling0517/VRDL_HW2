@@ -33,5 +33,7 @@ config = '/content/mmdetection/configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.p
 Use Faster R-CNN
 
 ## inference
-https://colab.research.google.com/drive/1Bzbm64kh8B-YKJxlsNXlZYBLZQwarPXx?authuser=7#scrollTo=otPgm84G8usO
+#### Remember to use the NYCU account
 
+https://colab.research.google.com/drive/1Bzbm64kh8B-YKJxlsNXlZYBLZQwarPXx?authuser=7#scrollTo=otPgm84G8usO
+or just run inference.ipynb
