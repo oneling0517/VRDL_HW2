@@ -1,7 +1,7 @@
 # VRDL_HW2
 
 ## The link of my Colab
-
+#### Remember to use the NYCU account
 https://colab.research.google.com/drive/1R7_y5zeQV7vMwxg-fRECrMuVT1AYf5Zb?usp=sharing
 
 ## Dataset Download
