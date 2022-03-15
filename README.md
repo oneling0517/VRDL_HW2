@@ -1,7 +1,6 @@
 # VRDL_HW2
 
 ## The link of my Colab
-#### Remember to use the NYCU account
 https://colab.research.google.com/drive/1R7_y5zeQV7vMwxg-fRECrMuVT1AYf5Zb?usp=sharing
 
 or just run SVHN.ipynb
@@ -33,7 +32,6 @@ config = '/content/mmdetection/configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.p
 Use Faster R-CNN
 
 ## inference
-#### Remember to use the NYCU account
 
 https://colab.research.google.com/drive/1Bzbm64kh8B-YKJxlsNXlZYBLZQwarPXx?authuser=7#scrollTo=otPgm84G8usO
 
