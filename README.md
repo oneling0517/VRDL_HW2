@@ -1,4 +1,4 @@
-# VRDL_HW2
+# VRDL_HW2 - object detection
 
 ## The link of my Colab
 https://colab.research.google.com/drive/1R7_y5zeQV7vMwxg-fRECrMuVT1AYf5Zb?usp=sharing
